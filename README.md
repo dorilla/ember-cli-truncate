@@ -1,3 +1,5 @@
+WIP NOT READY YET
+
 # Ember-cli-truncate
 
 This README outlines the details of collaborating on this Ember addon.
